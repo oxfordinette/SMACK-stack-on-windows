@@ -35,6 +35,9 @@ http://www.lightbend.com/activator/template/akka-with-cqrs-eventsourcing
 
 ![dddd](http://www.lightbend.com/activator/template/akka-with-cqrs-eventsourcing/tutorial/images/cqrs.png)
 
+http://www.reactivemanifesto.org/
+
+![reactive](http://www.reactivemanifesto.org/images/reactive-traits.svg)
 
  
 ## S apache spark
