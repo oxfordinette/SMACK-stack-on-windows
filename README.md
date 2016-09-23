@@ -57,3 +57,7 @@ http://mesos.apache.org/gettingstarted/
 
 ## K Apache Kafka
 * https://dzone.com/articles/running-apache-kafka-on-windows-os
+
+## H2O.ai
+
+http://www.h2o.ai/download/h2o/desktop
