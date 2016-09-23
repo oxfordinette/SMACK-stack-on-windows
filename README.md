@@ -28,5 +28,5 @@ http://mesos.apache.org/gettingstarted/
 * http://www.datastax.com/dev/blog/ccm-2-0-and-windows
 * http://docs.datastax.com/en/cassandra_win/3.x/cassandra/install/installWin.html
 
-# K Apache Kafka
+## K Apache Kafka
 * https://dzone.com/articles/running-apache-kafka-on-windows-os
