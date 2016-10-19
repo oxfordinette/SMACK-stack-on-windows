@@ -57,6 +57,7 @@ http://mesos.apache.org/gettingstarted/
 
 ## K Apache Kafka
 * https://dzone.com/articles/running-apache-kafka-on-windows-os
+* https://tomasz.janczuk.org/2015/09/from-kafka-to-zeromq-for-log-aggregation.html
 
 ## H2O.ai
 
