@@ -14,10 +14,12 @@ Goals
 * https://blog.codecentric.de/en/2016/04/smack-stack-hands/
 * http://www.natalinobusa.com/2015/11/why-is-smack-stack-all-rage-lately.html
 * https://blog.codecentric.de/en/2016/07/iot-analytics-platform/
+* https://mesosphere.com/blog/smack-stack-new-lamp-stack/
 
 # Background information
 
 http://lambda-architecture.net/
+http://milinda.pathirage.org/kappa-architecture.com/
 
 ![SMACKarchitecture](http://lambda-architecture.net/img/la-overview_small.png)
 
@@ -45,6 +47,7 @@ cross platform development with spark libraries...
 
 ## M apache Mesos
 http://mesos.apache.org/gettingstarted/
+https://preview.gva.be/nieuws/binnenland
 
 ## A akka
 * cross platform development with akka libraries...
