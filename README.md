@@ -47,7 +47,7 @@ cross platform development with spark libraries...
 
 ## M apache Mesos
 http://mesos.apache.org/gettingstarted/
-https://preview.gva.be/nieuws/binnenland
+https://www.minimesos.org/
 
 ## A akka
 * cross platform development with akka libraries...
